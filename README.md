@@ -28,6 +28,17 @@ Feedback is provided in terms of heuristic function
 
 </p>
 
+
+<hr>
+<h3> Steps Applied:</h3>
+<h3>Step-1</h3>
+<p> Generate Random String of the length equal to the given String</p>
+<h3>Step-2</h3>
+<p>Mutate the randomized string each character at a time</p>
+<h3>Step-3</h3>
+<p> Evaluate the fitness function or Heuristic Function</p>
+<h3>Step-4:</h3>
+<p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 # Program:
 ```
 import random
@@ -78,17 +89,6 @@ SimpleHillClimbing()
 # Output:
 ![image](https://github.com/user-attachments/assets/468a479e-63fb-4257-bede-1c7c6f5ad35a)
 
-
-<hr>
-<h3> Steps Applied:</h3>
-<h3>Step-1</h3>
-<p> Generate Random String of the length equal to the given String</p>
-<h3>Step-2</h3>
-<p>Mutate the randomized string each character at a time</p>
-<h3>Step-3</h3>
-<p> Evaluate the fitness function or Heuristic Function</p>
-<h3>Step-4:</h3>
-<p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 <hr>
 <h2>Sample Input and Output</h2>
